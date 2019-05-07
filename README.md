@@ -11,4 +11,5 @@
 - Md5
 - Blake2b
 - Blake2s   
+     
 _(Python Version)_
