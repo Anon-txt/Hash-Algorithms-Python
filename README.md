@@ -10,5 +10,5 @@
 - Sha3_512
 - Md5
 - Blake2b
-- Blake2s . 
+- Blake2s   
 _(Python Version)_
