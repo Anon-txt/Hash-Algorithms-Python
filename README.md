@@ -12,4 +12,4 @@
 - Blake2b
 - Blake2s   
      
-_(Python Version)_
+_(Python Version)_🐍
